@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://dreamy-banach-9a9718.netlify.app/"
 languageCode = "en-us"
 title = "Tuan"
 theme = "ananke"
